@@ -11,10 +11,12 @@ I'm passionate about **ARTIFICIAL INTELLIGENCE** and **DATA SCIENCE**, especiall
 - 💻 Currently working on my FDP (A Deep Learning Workflow for LVEF Extraction from 4D CMRI)
 
 ---
-## 📫 Let's Connect!
+### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricard-garcia-isern-55b42a297/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ricard.garcia@alum.esci.upf.edu)
+
+---
 
 ## 🛠️ My Tech Stack
 
@@ -54,36 +56,3 @@ I'm passionate about **ARTIFICIAL INTELLIGENCE** and **DATA SCIENCE**, especiall
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rigais23&show_icons=true&theme=radical)](https://github.com/rigais23)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rigais23&layout=compact&theme=radical)](https://github.com/rigais23)
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1] in [repository]
-2. � Moved [project] to new organization
-3. 🛠️ Fixed bug in [project]
-<!--END_SECTION:activity-->
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
----
-
-⭐️ From [YourUsername](https://github.com/yourusername)
-## Hi there 👋
-
-<!--
-**rigais23/rigais23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
