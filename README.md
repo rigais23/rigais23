@@ -8,8 +8,13 @@ I'm passionate about **ARTIFICIAL INTELLIGENCE** and **DATA SCIENCE**, especiall
 
 - 🎓 Student of Bioinformatics
 - ⚡ Interested in AI, Data Science and its intesections with medicine
-- 💻 Currently working on my FDP (A Deep Learning Workflow for LVEF Extraction from 4D CMRI) 
+- 💻 Currently working on my FDP (A Deep Learning Workflow for LVEF Extraction from 4D CMRI)
 
+---
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricard-garcia-isern)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ricard.garcia@alum.esci.upf.edu)
 
 ## 🛠️ My Tech Stack
 
