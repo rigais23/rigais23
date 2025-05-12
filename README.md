@@ -4,10 +4,11 @@
 
 I'm passionate about **ARTIFICIAL INTELLIGENCE** and **DATA SCIENCE**, especially in their applications to **MEDICINE**. My work involves applying **deep learning**, **machine learning** and **data-driven** methods to address complex biological data and support real-world healthcare solutions.
 
+---
 
-🎓 Student of Bioinformatics
-⚡ Interested in AI, Data Science and its intesections with medicine
-💻 Currently working on my FDP (A Deep Learning Workflow for LVEF Extraction from 4D CMRI) 
+- 🎓 Student of Bioinformatics
+- ⚡ Interested in AI, Data Science and its intesections with medicine
+- 💻 Currently working on my FDP (A Deep Learning Workflow for LVEF Extraction from 4D CMRI) 
 
 
 ## 🛠️ My Tech Stack
