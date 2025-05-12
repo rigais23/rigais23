@@ -47,10 +47,3 @@ I'm passionate about **ARTIFICIAL INTELLIGENCE** and **DATA SCIENCE**, especiall
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white)
-
-
-## 📈 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rigais23&show_icons=true&theme=radical)](https://github.com/rigais23)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rigais23&layout=compact&theme=radical)](https://github.com/rigais23)
