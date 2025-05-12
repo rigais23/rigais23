@@ -2,6 +2,10 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/rigais23?style=social)](https://github.com/rigais23)
 
+Welcome to my GitHub! 🚀
+I'm passionate about **artificial intelligence** and **data science**, especially in their applications to medicine. My work involves applying deep learning, machine learning and data-driven methods to address complex biological data and support real-world healthcare solutions.
+
+
 🔭 I'm a [Your Profession] passionate about [Your Interests]  
 🌱 Currently learning: [What you're learning]  
 💬 Ask me about: [Topics you can discuss]  
