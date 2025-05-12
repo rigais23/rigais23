@@ -11,8 +11,6 @@
 
 ## 🛠️ My Tech Stack
 
-### 🛠️ Tech Stack
-
 #### Languages & Tools 👨‍💻 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -48,9 +46,9 @@
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rigais23&show_icons=true&theme=radical)](https://github.com/rigasi23)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rigasi23&layout=compact&theme=radical)](https://github.com/rigasi23)
 
 ## 🔥 Recent Activity
 
