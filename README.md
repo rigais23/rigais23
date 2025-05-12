@@ -13,7 +13,7 @@ I'm passionate about **ARTIFICIAL INTELLIGENCE** and **DATA SCIENCE**, especiall
 ---
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricard-garcia-isern)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricard-garcia-isern-55b42a297/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ricard.garcia@alum.esci.upf.edu)
 
 ## 🛠️ My Tech Stack
