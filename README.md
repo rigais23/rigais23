@@ -2,16 +2,13 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/rigais23?style=social)](https://github.com/rigais23)
 
-Welcome to my GitHub! 🚀
-I'm passionate about **artificial intelligence** and **data science**, especially in their applications to medicine. My work involves applying deep learning, machine learning and data-driven methods to address complex biological data and support real-world healthcare solutions.
+I'm passionate about **ARTIFICIAL INTELLIGENCE** and **DATA SCIENCE**, especially in their applications to **MEDICINE**. My work involves applying **deep learning**, **machine learning** and **data-driven** methods to address complex biological data and support real-world healthcare solutions.
 
 
-🔭 I'm a [Your Profession] passionate about [Your Interests]  
-🌱 Currently learning: [What you're learning]  
-💬 Ask me about: [Topics you can discuss]  
-📫 How to reach me: [Your Email]  
-😄 Pronouns: [Your Pronouns]  
-⚡ Fun fact: [Something interesting]  
+🎓 Student of Bioinformatics
+⚡ Interested in AI, Data Science and its intesections with medicine
+💻 Currently working on my FDP (A Deep Learning Workflow for LVEF Extraction from 4D CMRI) 
+
 
 ## 🛠️ My Tech Stack
 
@@ -41,9 +38,9 @@ I'm passionate about **artificial intelligence** and **data science**, especiall
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 #### Development Tools  🧰 
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 
 ## 📈 GitHub Stats
