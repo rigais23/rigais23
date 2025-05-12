@@ -45,9 +45,9 @@
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rigais23&show_icons=true&theme=radical)](https://github.com/rigasi23)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rigais23&show_icons=true&theme=radical)](https://github.com/rigais23)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rigasi23&layout=compact&theme=radical)](https://github.com/rigais23)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rigais23&layout=compact&theme=radical)](https://github.com/rigais23)
 
 ## 🔥 Recent Activity
 
