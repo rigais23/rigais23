@@ -6,7 +6,7 @@ I'm passionate about **ARTIFICIAL INTELLIGENCE** and **DATA SCIENCE**, especiall
 
 ---
 
-- 🎓 Student of Bioinformatics (bachelor at UPC-UUPF-UB-UAB)
+- 🎓 Student of Bioinformatics (bachelor at UPC-UPF-UB-UAB)
 - ⚡ Interested in AI, Data Science and its intesections with medicine
 - 💻 Currently working on my FDP (A Deep Learning Workflow for LVEF Extraction from 4D CMRI)
 
