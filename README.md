@@ -2,13 +2,14 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/rigais23?style=social)](https://github.com/rigais23)
 
-I'm passionate about **ARTIFICIAL INTELLIGENCE** and **DATA SCIENCE**, especially in their applications to **MEDICINE**. My work involves applying **deep learning**, **machine learning** and **data-driven** methods to address complex biological data and support real-world healthcare solutions.
+I'm passionate about **Artificial Intelligence** and **Data Science**, especially at the intersection with **Healthcare** and **Medical Technology**. I focus on applying **deep learning**, **machine learning**, and **data-driven** methods to solve complex biological problems and develop real-world clinical tools.
 
 ---
 
-- 🎓 Student of Bioinformatics (bachelor at UPC-UPF-UB-UAB)
-- ⚡ Interested in AI, Data Science and its intesections with medicine
-- 💻 Currently working on my FDP (A Deep Learning Workflow for LVEF Extraction from 4D CMRI)
+- 🎓 **Master's Student in Artificial Intelligence** at UPC FIB | **BSc in Bioinformatics** from ESCI-UPF
+- 🏆 Completed my Bachelor's with a final average of **8.67/10** and received the **Best Final Degree Project Thesis Award** (9.7/10)
+- 💻 **Final Degree Project:** Developed a Deep Learning framework to compute **Left Ventricular Ejection Fraction (LVEF)** from 4D Cardiac MRI in collaboration with **Barcelona Supercomputing Center (BSC)** and **ISGlobal**
+- ⚡ Interests: AI in Healthcare, Medical Technology, Data Science
 
 ---
 ### 📫 Let's Connect!
