@@ -2,20 +2,19 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/rigais23?style=social)](https://github.com/rigais23)
 
-I'm passionate about **Artificial Intelligence** and **Data Science**, especially at the intersection with **Healthcare** and **Medical Technology**. I focus on applying **deep learning**, **machine learning**, and **data-driven** methods to solve complex biological problems and develop real-world clinical tools.
+I'm passionate about **Artificial Intelligence**, especially at the intersection with **Healthcare** and **Medical Technology**. I focus on applying **deep learning**, **machine learning**, and **data-driven** methods to solve complex biological problems and develop real-world clinical tools.
 
 ---
-
-- 🎓 **Master's Student in Artificial Intelligence** at UPC (Universitat Politècnica de Catalunya) | **BSc in Bioinformatics** from ESCI-UPF
-- 🏆 Completed my Bachelor's with a final average of **8.67/10** and received the **Best Final Degree Project Thesis Award** (9.7/10)
-- 💻 **Final Degree Project:** Developed a Deep Learning framework to compute **Left Ventricular Ejection Fraction (LVEF)** from 4D Cardiac MRI in collaboration with **Barcelona Supercomputing Center (BSC)** and **ISGlobal**
-- ⚡ Interests: AI in Healthcare, Medical Technology, Data Science
+- 🏥 **AI Scientist** at the Data Science Department of **Hospital del Mar**.
+- 🎓 **Master's Student in Artificial Intelligence** at UPC| **BSc in Bioinformatics**.
+- 🏆 **BSc Avg:** 8.67/10 | **Best Thesis Award** (9.7/10).
+- 💻 **Thesis:** Deep Learning framework  framework for LVEF from 4D Cardiac MRI (w/ **BSC** (Barcelona Supercomputing Center) & **ISGlobal**).
 
 ---
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricard-garcia-isern-55b42a297/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ricard.garcia@alum.esci.upf.edu)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ricard.garcia@alumni.esci.upf.edu)
 
 ---
 
