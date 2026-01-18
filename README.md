@@ -1,4 +1,4 @@
-# Hi there, I'm Ricard 🫡
+# Hello, I'm Ricard Garcia!
 
 [![GitHub followers](https://img.shields.io/github/followers/rigais23?style=social)](https://github.com/rigais23)
 
