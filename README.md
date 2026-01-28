@@ -11,9 +11,3 @@ My interests span **Medical Technology**, refining diagnostic accuracy and devel
 - 💻 **Thesis:** Deep Learning framework for LVEF from 4D Cardiac MRI (w/ **BSC** (Barcelona Supercomputing Center) & **ISGlobal**).
 
 ---
-### Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricard-garcia-isern-55b42a297/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ricard.garcia@alumni.esci.upf.edu)
-
----
