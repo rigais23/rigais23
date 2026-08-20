@@ -1,13 +1,9 @@
 # Hello, I'm Ricard Garcia!
 
-I'm passionate about **Artificial Intelligence**, especially at the intersection with Medicine & Healthcare. My focus is on applying AI tools to solve complex biological problems.
-
-My interests span **Medical Technology**, refining diagnostic accuracy and developing real-world clinical tools, and **Pharmaceuticals**, improving and accelerating the pipeline of drug discovery.
+My interests lie at the intersection of **Bioinformatics** and **Artificial Intelligence**. I focus on applying machine learning to accelerate **drug discovery** and solve complex biological challenges.
 
 ---
-- 🏥 **AI Scientist** at the Data Science Department of **Hospital del Mar**.
-- 🎓 **Master's Student in Artificial Intelligence** at UPC | **BSc in Bioinformatics**.
-- 🏆 **Best Thesis Award**.
-- 💻 **Thesis:** Deep Learning framework for LVEF from 4D Cardiac MRI (w/ **BSC** (Barcelona Supercomputing Center) & **ISGlobal**).
-
+- 🧪 **AI Intern** (Drug Discovery) at **Nostrum BioDiscovery** *(Working on my Master's Thesis)*.
+- 🎓 **MSc Student in Artificial Intelligence** at **UPC** | **BSc in Bioinformatics**.
+  
 ---
